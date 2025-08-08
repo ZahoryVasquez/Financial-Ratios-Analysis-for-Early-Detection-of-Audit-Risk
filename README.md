@@ -57,9 +57,9 @@ This project analyzes a financial dataset to distinguish between **healthy compa
 ## 🙋🏽‍♀️ About Me
 
 **Rocío Zahory Vásquez Romero**  
-Senior Auditor | Data Science & Machine Learning Enthusiast 
-Email: rocio.vasquez@usach.cl
-LinkedIn: https://www.linkedin.com/in/rocio-zahory-vasquez-romero-3621ab1a7/
+- Senior Auditor | Data Science & Machine Learning Enthusiast 
+- Email: rocio.vasquez@usach.cl
+- LinkedIn: https://www.linkedin.com/in/rocio-zahory-vasquez-romero-3621ab1a7/
 
 ---
 
